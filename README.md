@@ -1,1 +1,1 @@
-This repo contains the files used for a git lesson.
+Changed it #2 This repo contains the files used for a git lesson.
