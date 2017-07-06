@@ -1,6 +1,7 @@
 /**
  * Takes 1 double argument from stdin and outputs 
- * to stdout the square of the argument.
+ * to stdout the square of the argument multiplied by 2.0.
+ *
  */
 public class MySquare {
 
