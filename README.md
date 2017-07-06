@@ -1,1 +1,2 @@
-Changed it yet again #4 This repo contains the files used for a git lesson.
+Changed it yet again This repo contains the files used for a git lesson.
+Add a new line for #5
