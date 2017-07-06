@@ -1,3 +1,7 @@
+/**
+ * Takes 1 double argument from stdin and outputs 
+ * to stdout the square of the argument.
+ */
 public class MySquare {
 
     public static void main(String[] args) throws NumberFormatException {
