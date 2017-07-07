@@ -6,8 +6,14 @@
 public class MySquare {
 
     public static void main(String[] args) throws NumberFormatException {
-    	double base = Double.parseDouble(args[0]);
-    	System.out.println( 4.0*Math.pow(base,2) );
+    	double result = new MySquare().doMath(Double.parseDouble(args[0]));
+    	System.out.println( base );
+    }
+
+    public double doMath( String base )
+    {
+    	double result = 4.0*Math.pow(base,2);
+    	return result;
     }
 
 }
